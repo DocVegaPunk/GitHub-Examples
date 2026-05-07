@@ -10,3 +10,4 @@
 - Images
 - Autolists
 - Lists
+~~Strikethrough~~
